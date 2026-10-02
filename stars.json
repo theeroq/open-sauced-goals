@@ -1,39 +1,39 @@
 [
   {
     "full_name": "pbakaus/impeccable",
-    "stargazers_count": 72251,
-    "open_issues_count": 62,
-    "forks_count": 4367
+    "stargazers_count": 73870,
+    "open_issues_count": 54,
+    "forks_count": 4449
   },
   {
     "full_name": "rmyndharis/OpenWA",
-    "stargazers_count": 14737,
-    "open_issues_count": 16,
-    "forks_count": 3448
+    "stargazers_count": 14934,
+    "open_issues_count": 17,
+    "forks_count": 3494
   },
   {
     "full_name": "outray-tunnel/outray",
-    "stargazers_count": 1146,
+    "stargazers_count": 1145,
     "open_issues_count": 15,
-    "forks_count": 123
+    "forks_count": 121
   },
   {
     "full_name": "xt42io/aeroplane",
-    "stargazers_count": 280,
+    "stargazers_count": 281,
     "open_issues_count": 16,
     "forks_count": 48
   },
   {
     "full_name": "farzaa/clicky",
-    "stargazers_count": 7668,
+    "stargazers_count": 7688,
     "open_issues_count": 82,
-    "forks_count": 1527
+    "forks_count": 1532
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 124808,
-    "open_issues_count": 1834,
-    "forks_count": 11716
+    "stargazers_count": 124980,
+    "open_issues_count": 1821,
+    "forks_count": 11828
   },
   {
     "full_name": "saulsharma/apple-news-ui",
@@ -51,13 +51,13 @@
     "full_name": "quran/quran.com-frontend-next",
     "stargazers_count": 1913,
     "open_issues_count": 319,
-    "forks_count": 625
+    "forks_count": 626
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 19293,
+    "stargazers_count": 19292,
     "open_issues_count": 218,
-    "forks_count": 2744
+    "forks_count": 2746
   },
   {
     "full_name": "themesberg/flowbite-astro-admin-dashboard",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "themesberg/flowbite-react",
-    "stargazers_count": 2150,
+    "stargazers_count": 2149,
     "open_issues_count": 193,
     "forks_count": 505
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 96840,
+    "stargazers_count": 96871,
     "open_issues_count": 134,
-    "forks_count": 15972
+    "forks_count": 15988
   },
   {
     "full_name": "mwangiKibui/node.js-rest-api-documentation",
@@ -135,6 +135,6 @@
     "full_name": "cyberboysumanjay/JioSaavnAPI",
     "stargazers_count": 458,
     "open_issues_count": 11,
-    "forks_count": 256
+    "forks_count": 254
   }
 ]
